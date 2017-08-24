@@ -1,0 +1,9 @@
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\bin\Debug\TestPaperPrint.exe.config
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\bin\Debug\TestPaperPrint.exe
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\bin\Debug\TestPaperPrint.pdb
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.csprojResolveAssemblyReference.cache
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.Form1.resources
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.Properties.Resources.resources
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.csproj.GenerateResource.Cache
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.exe
+C:\Users\spilay\Desktop\TestPaperPrint\TestPaperPrint\obj\Debug\TestPaperPrint.pdb
